@@ -2,3 +2,4 @@ Mongodb:-- https://youtu.be/hv7Y-Ct9sE4
 MERN:-  https://youtu.be/7CqJlxBYj-M
 npm install express cors mongoose dotenv
 node :- npm install -g nodemon
+Mongod app URI:-   mongodb+srv://<username>:<password>@cluster0.5qmms.mongodb.net/<dbname>?retryWrites=true&w=majority
