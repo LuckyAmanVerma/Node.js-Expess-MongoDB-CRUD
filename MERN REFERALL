@@ -4,3 +4,4 @@ npm install express cors mongoose dotenv
 node :- npm install -g nodemon
 Mongod app URI:-   mongodb+srv://<username>:<password>@cluster0.5qmms.mongodb.net/<dbname>?retryWrites=true&w=majority
 Github URI:- vscode://vscode.github-authentication/did-authenticate?windowid=1&code=0baf0b5d19176ed18a40&state=8c2e7a4e-e664-4399-87bf-41e03951e8d6
+view Engine:- ejs  render method
